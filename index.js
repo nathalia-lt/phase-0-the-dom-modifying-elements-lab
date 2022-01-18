@@ -1,5 +1,4 @@
-// Write your code here!
-
+ 
 const main = document.querySelector('#main')
 
 main.remove()
@@ -10,3 +9,4 @@ newHeader.setAttribute("id", "victory")
 newHeader.innerHTML = "Nathalia is the champion"
 
 document.body.append(newHearder) 
+
